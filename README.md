@@ -127,5 +127,3 @@ Watch the complete explanation of this project:
 **Language:** Python 3
 **Project:** Project 2 – Logic Box
 
-```
-```
